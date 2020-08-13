@@ -1,0 +1,151 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+body {
+  margin: auto;
+  font-family: "Poppins", sans-serif;
+  font-size: 14px;
+  line-height: 22px;
+  color: #666;
+}
+
+a {
+  text-decoration: none;
+  color: #000;
+}
+
+a:hover {
+  color: #673ab7;
+}
+
+#header,
+#footer {
+  background: #00bcd4;
+  color: #fff;
+  padding: 40px 0px;
+}
+
+#header h1 {
+  font-weight: 100;
+  font-size: 48px;
+  line-height: 48px;
+  margin: 0px;
+}
+
+.divisor {
+  border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+  margin: 30px 0px;
+}
+
+h2 {
+  margin: 30px 0px 20px;
+  font-weight: 400;
+}
+
+form {
+  margin-bottom: 100px;
+}
+
+.ui-helper-hidden-accessible {
+  display: none;
+}
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+
+input {
+  outline: none;
+  border: 1px solid rgba(0, 0, 0, 0.1);
+  padding: 10px;
+  border-radius: 5px;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+  margin-right: 20px;
+  font-family: "Poppins", sans-serif;
+  color: #666;
+}
+
+input[readonly] {
+  background: #f0f0f0;
+  border-color: #e7e7e7;
+  color: #00bcd4;
+  box-shadow: none;
+}
+
+input::placeholder {
+  color: #aeaeae;
+}
+
+.ui-autocomplete {
+  width: 200px !important;
+  margin: 0px;
+  padding: 10px 0px 0px;
+}
+
+.ui-autocomplete li {
+  display: block;
+  width: auto;
+  background: #fff;
+  padding: 10px 20px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.05);
+  color: #000;
+  cursor: pointer;
+  text-decoration: none;
+}
+
+.delete {
+  cursor: pointer;
+  background: #f44336;
+  color: #fff;
+  border-radius: 5px;
+  border: 0;
+  font-size: 16px;
+  height: 38px;
+}
+
+/* mensagens */
+
+.warning {
+  background: #ffb6b1;
+  padding: 0px 20px;
+  border-radius: 5px;
+  border: 1px solid #ff8980;
+  margin-top: 30px;
+  color: #f44336;
+}
+
+/* tabela */
+
+.tabela {
+  min-height: 65vh;
+}
+
+th,
+td {
+  padding: 10px 20px;
+}
+
+th {
+  background: #3f51b5;
+  color: #fff;
+}
+
+td {
+  background: #e9e9e9;
+}
+
+/* footer */
+
+#footer {
+  margin-top: 40px;
+}
