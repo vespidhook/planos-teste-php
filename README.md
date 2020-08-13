@@ -16,7 +16,7 @@
 
 ## :computer: Telas
 
-<img align="center" src="http://bitix.bas.inf.br/img/print"></img>
+<img align="center" src="http://bitix.bas.inf.br/img/print.jpg"></img>
 
 ## :round_pushpin: Instalando o projeto
 
