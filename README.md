@@ -3,8 +3,8 @@
 </p>
 
 <h1 align="center">Teste PHP</h1>
-<p align="center">O projeto consome um <strong>JSON</strong> buscando os dados de dos planos de saúde e valores com regras
- de prços</p>
+<p align="center">O projeto consome um <strong>JSON</strong> buscando os dados dos planos de saúde, valores e regras
+ de preços</p>
 <p align="center">
   
 ## :rocket: Tecnologiase ferramentas
@@ -18,14 +18,10 @@
 
 <img align="center" src="./img/print.png"></img>
 
-## :round_pushpin: Instalando o projeto
+## :round_pushpin: Demo
 
-1 - <strong>git clone https://github.com/vespidhook/api-reactjs.git</strong> | para baixar o repositório <br/>
-2 - <strong>composer install </strong> | para instalar as dependências<br/>
-3 - Crie um banco de dados<strong> MySql</strong> e adicione suas configurações no arquivo <strong>.env</strong><br/>
-4 - <strong>php artisan migrate</strong> | para rodar as migrations\*\*\*<br/>
-5 - <strong>php artisan serve</strong> | para iniciar o projeto na porta 8000<br/>
+<strong>http://bitix.bas.inf.br/</strong> | para testar<br/>
 
 ## :memo: License
 
-#### Este projeto está sob licença [MIT](./LICENSE) &copy; [Fegoow](https://feegowclinic.com.br/)
+#### Este projeto está sob licença [MIT](./LICENSE) &copy; [Bruno Alves](http://bas.inf.br/)
