@@ -3,7 +3,8 @@
 </p>
 
 <h1 align="center">Teste PHP</h1>
-<p align="center">O projeto consome uma <strong>API</strong> buscando os dados de especialidades, profissionais, datdas e horários  </p>
+<p align="center">O projeto consome um <strong>JSON</strong> buscando os dados de dos planos de saúde e valores com regras
+ de prços</p>
 <p align="center">
   
 ## :rocket: Tecnologiase ferramentas
@@ -11,13 +12,11 @@
 ### Este projeto foi desenvolvido com as seguintes tecnologias:
 
 | [PHP](https://www.php.net/)
-| [LARAVEL](https://laravel.com/)
-| [MYSQL](https://www.mysql.com/)
-| [COMPOSER](https://getcomposer.org/)
+| [JS](https://www.javascript.com/)
 
 ## :computer: Telas
 
-<img align="center" src="./img/site.png"></img>
+<img align="center" src="http://bitix.bas.inf.br/img/print"></img>
 
 ## :round_pushpin: Instalando o projeto
 
