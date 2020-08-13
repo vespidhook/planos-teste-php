@@ -1,5 +1,5 @@
 <p align="center">
-  <img  width="400" src="https://static.wixstatic.com/media/ee4e50_9182b616dfd7429295f22cd80a5c4193.png/v1/fill/w_106,h_48,al_c,q_85,usm_0.66_1.00_0.01/ee4e50_9182b616dfd7429295f22cd80a5c4193.webp">
+  <img  width="200" src="https://static.wixstatic.com/media/ee4e50_9182b616dfd7429295f22cd80a5c4193.png/v1/fill/w_106,h_48,al_c,q_85,usm_0.66_1.00_0.01/ee4e50_9182b616dfd7429295f22cd80a5c4193.webp">
 </p>
 
 <h1 align="center">Teste PHP</h1>
